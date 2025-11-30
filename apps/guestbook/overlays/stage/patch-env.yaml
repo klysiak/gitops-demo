@@ -9,4 +9,4 @@ spec:
         - name: guestbook
           env:
             - name: APP_MESSAGE
-              value: "Hello from STAGE guestbook!"
+              value: "Siema! Tu STAGE guestbook!"
